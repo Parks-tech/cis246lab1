@@ -1,2 +1,14 @@
 Lab 2 summary
 
+Attendance Lab 1 NOTES
+
+There weren't many differences in between entering commands in the netacad lab 2 and my orcale box
+
+The biggest difference that I noticed was that there were extra files in the netacad linux box 
+
+Where as in my vm there were only a few files most of which where the ones that I manually added in previous assignments.
+
+All of the commands responded the same showing files in a couple different formats and again the major difference was that there were more files in the netacad box.
+
+In summary I noticed no major differences in the commands that I entered and the all t-tion to the few commands that were purposely flawwed so they returned the prompt: Invalid command
+
